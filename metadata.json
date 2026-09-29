@@ -1,0 +1,11 @@
+{
+  "name": "AMARCO - Autonomous Desktop AI Agent",
+  "description": "AMARCO is an autonomous desktop AI agent that executes complex real-time commands across local and cloud environments with voice activation, encrypted tunnel routing, workflow automation, and multi-platform campaign management.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
